@@ -1,3 +1,8 @@
+Reproduced the given static UI - created with multiple reusable components
+- And by passing dynamic data
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
